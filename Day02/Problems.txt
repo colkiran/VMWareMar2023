@@ -1,0 +1,12 @@
+
+
+months = ['dec', 'aug', 'oct', 'feb', 'nov', 'apr', 'sep', 'jan', 'may', 'jun', 'mar', 'jul']
+
+sort these months according to the calendar
+
+find fibanocci series using recursive calls
+
+write a code to generate identity matrix
+
+write a code to generate magic matrix
+

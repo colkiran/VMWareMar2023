@@ -1,0 +1,119 @@
+Data Structures
+---------------
+1. Lists
+2. Dictionary
+3. Tuple
+4. Set
+
+
+Lists
+-----
+Lists are similar to arrays
+
+
+What are arrays?
+
+1. its a collection of homogenous data
+2. memory allocation is contigious
+
+
+Lists
+-----
+1. collection of hetrogenous data
+
+2. Memory allocation is not contigious
+
+3. Ordered collection -> 1, 2, 3, 4, 5
+
+4. it is subscriptable
+
+5. it is mutable
+
+6. enclosed in [ ]
+
+
+functions to manipulate a list
+------------------------------
+'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+
+
+
+list of cities with good rainfall
+
+2022 = ['del', 'mum', 'kol', [blr, mys, klr], 'hyd', 'che']
+
+2023 = ['del', 'mum', 'kol', [blr, mys, klr, hsn, mglr], 'hyd', 'che'] 
+
+
+Dictionary
+----------
+they are also called associative arrays or hashes\
+
+{k1: v1, k2: v2, k3: v3.....}
+
+index =   0    1    2    3    4
+arr   = ['a', 'b', 'c', 'd', 'e']
+ 
+
+dct = {0: 'a', 1: 'b', 2: 'c', 3: 'd', 4: 'e'}
+
+keys = 0, 1, 2, 3, 4		=> user defined
+values = a, b, c, d, e
+
+
+1. all keys in a dictionary is unique
+
+2. unordered collection
+
+3. mutable
+
+4. enclosed in {k1: v1, k2: v2, k3: v3.....}
+
+
+dictionary manipulation functions
+---------------------------------
+'clear', 'copy', 'fromkeys', 'get', 'items', 'keys', 'pop', 'popitem', 'setdefault', 'update', 'values'
+
+
+Tuple
+-----
+tuples are immutable lists
+
+tuples are ordered collection 
+
+tuples are subscriptable
+
+tuples are enclosed in ( )
+
+
+Set
+---
+1. set is a collection of unique values
+
+2. sets are mutable
+
+3. sets are not subscriptable
+
+4. sets are unordered collection
+
+5. sets are enclosed in  { }
+
+
+Functions
+---------
+What is a function?
+reusablility of a code
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
