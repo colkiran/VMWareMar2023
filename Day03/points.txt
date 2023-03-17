@@ -1,0 +1,73 @@
+lambda
+-------
+anonymous functions with a single expression
+
+
+result of the expression = lambda var1, var2, var....:expression
+
+
+problem
+-------
+months = ['dec', 'aug', 'oct', 'feb', 'nov', 'apr', 'sep', 'jan', 'may', 'jun', 'mar', 'jul']
+sort these months according to the calendar
+
+from calendar import month_abbr
+print(list(month_abbr))
+
+
+List comprehension and Dictionary Comprehension
+------------------------------------------------
+
+Scope of a variable
+-------------------
+1. global		-variable declared outside the function
+2. local		-variable declared inside the function
+3. non-local
+
+variable not accessible - you can print the value of the variable but cannot update it
+
+Decorator => change the way a function getting executed without touhcing function code
+
+
+def sub(x, y):
+	returns x - y
+
+sub(10, 2)  => 8
+sub(10, 20) => -10
+
+
+OOPS
+----
+Object Oriented Programming
+
+What is oops? why do we need oops?
+
+
+1. encapsulation		-	
+2. polymorphism
+3. abstraction
+4. inheritance
+
+Operator overloading
+--------------------
+magic methods
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
